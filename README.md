@@ -1,2 +1,14 @@
-# contador_caracteres_especificos
-Este programa Python conta quantas vezes a letra 'a' (maiúscula ou minúscula) aparece em uma string fornecida pelo usuário. Ele converte a string para minúsculas e utiliza o método count() para realizar a contagem. Ideal para quem busca uma solução simples para contar ocorrências de um caractere específico em um texto.
+## Contador de Ocorrências da Letra 'a'
+
+Descrição:
+
+Este programa em Python tem como objetivo contar quantas vezes a letra 'a' (maiúscula ou minúscula) aparece em uma string fornecida pelo usuário.
+
+Funcionalidades:
+
+Entrada: Solicita ao usuário que digite uma string qualquer.
+Processamento:
+Converte toda a string para minúsculas para facilitar a contagem, independentemente de a letra 'a' ser maiúscula ou minúscula.
+Utiliza o método count() da string para contar o número de ocorrências da letra 'a'.
+Saída: Imprime na tela o resultado da contagem, informando quantas vezes a letra 'a' foi encontrada na string.
+
